@@ -1,5 +1,6 @@
 import DashboardLayout from "../components/dashboardlayout"
 import EmployeeTable from "../components/employee-table"
+import employee from "../mock/employee.json"
 
 
 const EmployeePage = () => {
@@ -36,7 +37,7 @@ const EmployeePage = () => {
         </section>
 
         <section className="bg-white shadow mt-10">
-          <EmployeeTable />
+          <EmployeeTable  user={employee}/>
         </section>
 
     </DashboardLayout>

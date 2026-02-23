@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@company.com",
+    "jobTitle": "Senior Software Engineer",
+    "department": "Engineering",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "startDate": "2021-03-15",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez@company.com",
+    "jobTitle": "Product Manager",
+    "department": "Product",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "startDate": "2020-07-01",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Emily Chen",
+    "email": "emily.chen@company.com",
+    "jobTitle": "UX Designer",
+    "department": "Design",
+    "location": "Remote",
+    "type": "Full-time",
+    "startDate": "2022-01-10",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "James Wilson",
+    "email": "james.wilson@company.com",
+    "jobTitle": "Marketing Specialist",
+    "department": "Marketing",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "startDate": "2026-02-01",
+    "status": "Onboarding"
+  },
+  {
+    "id": 5,
+    "name": "Aisha Patel",
+    "email": "aisha.patel@company.com",
+    "jobTitle": "Data Analyst",
+    "department": "Analytics",
+    "location": "Chicago, IL",
+    "type": "Full-time",
+    "startDate": "2021-09-20",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Carlos Mendez",
+    "email": "carlos.mendez@company.com",
+    "jobTitle": "HR Coordinator",
+    "department": "Human Resources",
+    "location": "Miami, FL",
+    "type": "Full-time",
+    "startDate": "2020-11-05",
+    "status": "On Leave"
+  },
+  {
+    "id": 7,
+    "name": "Jessica Lee",
+    "email": "jessica.lee@company.com",
+    "jobTitle": "Software Engineer",
+    "department": "Engineering",
+    "location": "Seattle, WA",
+    "type": "Contractor",
+    "startDate": "2023-05-12",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "Daniel Thompson",
+    "email": "daniel.thompson@company.com",
+    "jobTitle": "Sales Manager",
+    "department": "Sales",
+    "location": "Boston, MA",
+    "type": "Full-time",
+    "startDate": "2019-04-22",
+    "status": "Active"
+  }
+]
